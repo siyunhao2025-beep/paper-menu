@@ -69,7 +69,7 @@ git clone https://github.com/siyunhao2025-beep/paper-menu.git "$SKILLS_ROOT/pape
 在 Codex 中发送：
 
 ```text
-使用 $paper-menu 帮我从零启动一篇关于“城市热岛效应预测”的科研论文。
+使用 $paper-menu 帮我从零启动一篇关于“XXXXX”的科研论文。
 请先盘点我本地所有科研论文相关 Skills，检查重复、冲突和能力缺口，
 然后给出完整的调用顺序、每一步的输入输出和风险。
 在我批准之前，不要创建项目文件夹。
