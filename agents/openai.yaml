@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paper Menu"
+  short_description: "盘点本地科研 Skills，审批编排并交付固定目录的可追溯论文项目"
+  default_prompt: "Use $paper-menu to inventory my installed research skills, propose an approved workflow, and create a traceable paper project."
+
