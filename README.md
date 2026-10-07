@@ -6,6 +6,10 @@
 
 一个不让 AI 一上来就乱建文件夹、乱写“显著提升”、乱炖全部 Skills 的科研论文总控 Skill。
 
+<a href="assets/paper-menu-poster.jpg">
+  <img src="assets/paper-menu-poster.jpg" alt="Paper Menu 科研论文总控 Skill 宣传海报" width="560">
+</a>
+
 </div>
 
 > 论文不是自助餐：本地装了 80 个 Skill，不代表每个都要舀一勺。
