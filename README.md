@@ -4,7 +4,7 @@
 
 ### 先看菜单，再点技能，最后上论文。
 
-一个不让 AI 一上来就乱建文件夹、乱写“显著提升”、乱炖全部 Skills 的科研论文总控 Skill。
+一个先盘点用户电脑中散落的科研项目代码与文件，再将它们归纳到统一、可追溯项目结构中的科研论文总控 Skill。
 
 <a href="assets/paper-menu-poster.jpg">
   <img src="assets/paper-menu-poster.jpg" alt="Paper Menu 科研论文总控 Skill 宣传海报" width="560">
